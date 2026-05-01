@@ -1,5 +1,7 @@
 # soichisumi
 
+Focusing on GenAI. Professional in AI, SRE and Blockchain
+
 ## 📊 GitHub Statistics
 
 <p align="left">
