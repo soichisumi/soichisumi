@@ -1,5 +1,7 @@
 # soichisumi
 
+CEO at LeapInsight
+
 Focusing on GenAI. Professional in AI, SRE and Blockchain
 
 ## 📊 GitHub Statistics
